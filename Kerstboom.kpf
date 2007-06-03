@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project kpf_version="2" name="Kerstboom">
+<preference-set id="">
+</preference-set>
+<file name="switchlights.py" url="switchlights.py">
+<preference-set id="">
+<preference-set id="Invocations">
+<preference-set id="Python">
+  <string id="postparams"></string>
+  <string id="userEnvironment"></string>
+  <string id="getparams"></string>
+  <boolean id="use-console">0</boolean>
+  <string id="mpostparams"></string>
+  <boolean id="show-dialog">1</boolean>
+  <string id="request-method">GET</string>
+  <string id="params"></string>
+  <string id="userCGIEnvironment"></string>
+  <string id="posttype">application/x-www-form-urlencoded</string>
+  <string id="documentRoot"></string>
+  <string id="cookieparams"></string>
+  <string id="filename">/home/theo/Devel/Python/switchlights.py</string>
+  <boolean id="sim-cgi">0</boolean>
+  <string id="cwd"></string>
+</preference-set>
+</preference-set>
+</preference-set>
+</file>
+</project>
